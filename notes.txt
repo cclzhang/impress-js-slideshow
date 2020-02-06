@@ -1,0 +1,36 @@
+Thank you Alice. Hello everyone! I will be the last presenter. Today I will be sharing with all of you impress.js 
+Impress.js is presentation tool created by Bartek Szopka in 2011. In other words, it's a javascript library based on the power of CSS3 transforms and transitions along with JavaScript and jQuery. This framework allows people like us to create really cool online presentations that really allows you to flex your creative muscles.
+
+with impress.js you can design your presentation purely by html5/css3 
+and audiences can use only browser without any additional plugins
+
+Why don't we use powerpoint?
+Why don't we use googleslides?
+because of all this
+
+well what about prezi?
+actually impress was inspired by prezi but still can
+
+
+
+impress is a javascript library used to create presentations and comes with powerful CSS3 support, you can use it to create more customized presentations than MS PowerPoint or Prezi. Moreover, it is free to use and highly adaptable because of being open source.
+unique is the ability to create HTML 5 presentations in 3D
+
+whatever you can do with Prezi, you can do with impress.js.
+
+
+cross browser support:
+recent versions of Firefox and Chrome are known to work well. Reportedly IE now works too.
+
+1653 we have the blackboard
+1987 came the powerpoint
+2009 we have pretzi
+and now we have impress.js
+
+
+
+
+
+the only limit is your imagination
+
+so the next time you work on a presentation to impress why not use impress.js
