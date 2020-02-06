@@ -122,11 +122,20 @@ h4 {
 }
 
 .subStep {
+    border: none;
     opacity:0;
+}
+
+.subStep.subStep1 {
+    background-color: #2d423f;
 }
 
 .subStep.active {
     opacity: 1;
+}
+
+.subStep section {
+    width: 85%;
 }
 
 .step-overview .step {
