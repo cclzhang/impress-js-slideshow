@@ -23,10 +23,10 @@ img {
 }
 
 body {
-    background-color: #2d423f;
+    background-color: #35534f;
 }
 .step {
-    color: rgb(202, 224, 214);
+    color: rgb(193, 240, 219);
     border: 7px solid rgb(226, 189, 164);
     border-radius: 35px;
     min-width: 750px;
@@ -53,7 +53,7 @@ h2 {
     font-size: 35px;
     font-weight: 600;
     margin: 20px;
-    border-bottom: 3px solid rgb(202, 224, 214);
+    border-bottom: 3px solid rgb(193, 240, 219);
 }
 
 .cover {
@@ -128,7 +128,7 @@ h4 {
 
 .special {
     height: 600px;
-    background-color: #2d423f;
+    background-color: #35534f;
 }
 
 .special section {
@@ -178,6 +178,6 @@ h4 {
 
 #overview h2 {
     font-size: 80px;
-    color: white;
+    color: rgb(208, 255, 234);
     border: none;
 }
