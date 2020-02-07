@@ -126,9 +126,20 @@ h4 {
     opacity:0;
 }
 
-.subStep.subStep1 {
+.special {
+    height: 600px;
     background-color: #2d423f;
 }
+
+.special section {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.special section {
+    margin: 0 auto;
+}
+
 
 .subStep.active {
     opacity: 1;
@@ -136,6 +147,24 @@ h4 {
 
 .subStep section {
     width: 85%;
+    margin: 0 auto;
+}
+
+.subStep3 {
+    border: 7px solid rgb(226, 189, 164);
+}
+
+.subStep3.special {
+    border: none;
+}
+
+.subStep3 section {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.closing {
+    border: none;
 }
 
 .step-overview .step {
@@ -144,5 +173,11 @@ h4 {
 }
 
 #overview {
+    border: none;
+}
+
+#overview h2 {
+    font-size: 80px;
+    color: white;
     border: none;
 }
